@@ -85,7 +85,6 @@
 0.0.0.0 syncplusconfig.s3.amazonaws.com
 0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 oempprd.samsungcloudsolution.com
-0.0.0.0 time.samsungcloudsolution.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 log-ingestion-eu.samsungacr.com
 0.0.0.0 vas.samsungapps.com
