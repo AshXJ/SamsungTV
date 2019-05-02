@@ -1,5 +1,7 @@
-# samsung smart tv block tizen 4 nu8000 
+# samsung smart tv block tizen 4 82nu8000 
 
+0.0.0.0 syndicationfeeds.swm.digital
+0.0.0.0 config.samsungads.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungcloudsolution.com
