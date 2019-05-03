@@ -79,5 +79,5 @@
 0.0.0.0 oempprd.samsungcloudsolution.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 log-ingestion-eu.samsungacr.com
-0.0.0.0 hub.samsungapps.com
+# 0.0.0.0 hub.samsungapps.com
 
