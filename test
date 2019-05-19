@@ -24,7 +24,7 @@
 0.0.0.0 d179kwmlpc4o47.cloudfront.ne
 0.0.0.0 d179kwmlpc4o47.cloudfront.net
 0.0.0.0 d1jwpcr0q4pcq0.cloudfront.net
-0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
+# 0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
 0.0.0.0 d2tnx644ijgq6i.cloudfront.net
 0.0.0.0 d3mjsomixevyw7.cloudfront.net
 0.0.0.0 dev-multiscreen.samsung.com
@@ -71,14 +71,4 @@
 0.0.0.0 oempprd.samsungcloudsolution.com
 0.0.0.0 log-ingestion-eu.samsungacr.com
 
-# WL
-# 0.0.0.0 hub.samsungapps.com
-# 0.0.0.0 sas.samsungcloudsolution.com 
-# 0.0.0.0 www.samsungotn.net 
-# 0.0.0.0 osb.samsungqbe.com
-# 0.0.0.0 lcprd1.samsungcloudsolution.net
-# 0.0.0.0 cdn.samsungcloudsolution.com
-# 0.0.0.0 osb-apps.samsungqbe.com 
-# 0.0.0.0 time.samsungcloudsolution.com
-# 0.0.0.0 cdn.samsungcloudsolution.net
 
