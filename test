@@ -35,7 +35,6 @@
 0.0.0.0 gpm.samsungqbe.com
 0.0.0.0 i-stream.pl
 0.0.0.0 infolink.pavv.co.kr
-# 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 log-1.samsungacr.com
 0.0.0.0 log-2.samsungacr.com
 0.0.0.0 log-3.samsungacr.com
@@ -85,3 +84,4 @@
 # 0.0.0.0 time.samsungcloudsolution.com
 # 0.0.0.0 cdn.samsungcloudsolution.com
 # 0.0.0.0 cdn.samsungcloudsolution.net
+# 0.0.0.0 lcprd1.samsungcloudsolution.net
