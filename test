@@ -71,6 +71,7 @@
 0.0.0.0 syncplusconfig.s3.amazonaws.com
 0.0.0.0 oempprd.samsungcloudsolution.com
 0.0.0.0 log-ingestion-eu.samsungacr.com
+
 # WL
 # 0.0.0.0 hub.samsungapps.com
 # 0.0.0.0 sas.samsungcloudsolution.com 
