@@ -73,11 +73,9 @@
 0.0.0.0 ns11.whois.co.kr
 0.0.0.0 infolink.pavv.co.uk
 0.0.0.0 premium-videos.telly.com
-0.0.0.0 targeted-config-test.samsungacr.com
 0.0.0.0 syncplusconfig.s3.amazonaws.com
 0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 oempprd.samsungcloudsolution.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 log-ingestion-eu.samsungacr.com
 # 0.0.0.0 hub.samsungapps.com
-
