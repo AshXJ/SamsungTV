@@ -21,8 +21,6 @@
 0.0.0.0 api-hub.samsungyosemite.com
 0.0.0.0 auth.samsungosp.com
 0.0.0.0 az43064.vo.msecnd.net
-# 0.0.0.0 cdn.samsungcloudsolution.com
-# 0.0.0.0 cdn.samsungcloudsolution.net
 0.0.0.0 d179kwmlpc4o47.cloudfront.ne
 0.0.0.0 d179kwmlpc4o47.cloudfront.net
 0.0.0.0 d1jwpcr0q4pcq0.cloudfront.net
@@ -85,3 +83,5 @@
 # 0.0.0.0 cdn.samsungcloudsolution.com
 # 0.0.0.0 osb-apps.samsungqbe.com 
 # 0.0.0.0 time.samsungcloudsolution.com
+# 0.0.0.0 cdn.samsungcloudsolution.com
+# 0.0.0.0 cdn.samsungcloudsolution.net
